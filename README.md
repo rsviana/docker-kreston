@@ -1,2 +1,2 @@
 # docker-kreston
-Maquinas virtuais em Docker
+Script simples em Shell para criar Maquinas virtuais em Docker.
